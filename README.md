@@ -1,1 +1,2 @@
 # SGC
+Sistema Gerenciamento Condominial
